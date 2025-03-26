@@ -1,7 +1,14 @@
-# TEC4-Datos-II
-Para la tarea extraclase #4, se implementaron los siguientes algoritmos:
+# 🔐 TEC4 — Hash Algorithms CE-2103
 
-- Hash MD5
-- Sha1
+## 📘 Overview
 
-La documentacion escrita fue entregada en el documento que contenia los links a este repositorio.
+This repository contains the implementation of cryptographic hash functions developed for TEC4 in the course Algoritmos y Estructuras de Datos II — CE-2103 at Instituto Tecnológico de Costa Rica.
+
+---
+
+## 🔑 Implemented Algorithms
+
+- **MD5**
+- **SHA-1**
+
+These algorithms are designed to generate fixed-length hash values for data validation or encryption contexts.
